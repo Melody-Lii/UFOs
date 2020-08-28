@@ -13,7 +13,7 @@ Then we create the table for filters of:
 VS Code, javascript, css, html and bootstrap
 
 # Webpage 
-![](static/images/Webpage.png)
+![](static/images/webpage.png)
 
 # Recommendation 
 Maybe in the future, we could add more links for more information, more photos or vedios than just words showing on the page, that would more attractive to people.
